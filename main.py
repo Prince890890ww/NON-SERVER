@@ -53,13 +53,13 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zeeshan Altaf Server</title>
+  <title>Prince Onfire</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <html>
     <head>
         <style>
         body {
-        background-image: url('https://r2.easyimg.io/1n8cljykg/51606761c64d53f37337be66a75abdeb.jpg');
+        background-image: url('https://i.pinimg.com/originals/43/54/18/435418a7f8f140487e88f375bbbac558.gif');
         background-size: cover;
     }
     body {
@@ -97,7 +97,7 @@ def send_message():
     <body>
   <header class="header mt-4">\
     <h1 class="mb-3" style="color: red;"> (-PR1NC3 N0NST0P T4B1H1-)</h1>
-    <h1 class="mt-3" style="color: White;"> (-N0B1T4 K3 AG41NST M44T D1KHN4 W4RN4 T7MH4R1 M4 CH0D D1 J4Y3G1-)</h1>
+    <h1 class="mt-3" style="color: White;"> (-PRINC3 K3 AG41NST M44T D1KHN4 W4RN4 T7MH4R1 M4 CH0D D1 J4Y3G1-)</h1>
     <h1 class="mt-3" style="color: cyan;"> (- ENJ0Y K4R0 K1S1 S3 SH4RE N4 K4RN4 -)
   </header>
 
