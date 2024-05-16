@@ -59,7 +59,7 @@ def send_message():
     <head>
         <style>
         body {
-        background-image: url('https://non-server-6nf4.onrender.com');
+        background-image: url('https://picjj.com/images/2024/05/11/NTfMo.jpg');
         background-size: cover;
     }
     body {
